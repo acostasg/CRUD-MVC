@@ -1,0 +1,11 @@
+{
+    "require": {
+        "joshcam/mysqli-database-class": "dev-master"
+    },
+    "autoload": {
+        "classmap": [
+            "app/models",
+            "app/services"
+        ]
+    }
+}
